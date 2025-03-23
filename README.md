@@ -7,12 +7,12 @@ FROM Customers;
 ```
 ## W3 SCHOOL PROFILE
 
-![SQL SELECT Statement result(./SQL_SELECT_STATEMENT)
+![SQL SELECT Statement result](./SQL_SELECT_STATEMENT)
 ### SQL SELECT Statement
 ```
-SELECT PHOTO2025)
+SELECT 
 FROM Customers
 ```
 
-![SQL SELECT Statement Result](./SELECT CustomerName, City 
+![SQL SELECT Statement Result](./SQL_Chart.jpeg) 
 FROM Customers;)
