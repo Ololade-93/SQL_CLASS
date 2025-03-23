@@ -9,8 +9,8 @@ FROM Customers;
 
 ### SQL SELECT Statement
 ```
-SELECT CustomerName, City 
-FROM Customers;
+SELECT PHOTO2025)
+FROM Customers
 ```
 
 ![SQL SELECT Statement Result](./SELECT CustomerName, City 
