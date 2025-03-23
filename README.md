@@ -6,4 +6,8 @@ MYSQLCLASS
 ### SQL SELECT Statement
 ```
 SELECT CustomerName, City 
-FROM Customers;```
+FROM Customers;
+```
+
+![SQL SELECT Statement Result](./SELECT CustomerName, City 
+FROM Customers;)
